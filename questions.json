@@ -1,0 +1,788 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+      "heading": "Linear Equation",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Solve the equation:<br>3z + 12 = 15",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "3"
+            },
+            {
+              "text": "1"
+            },
+            {
+              "text": "5"
+            },
+            {
+              "text": "0"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "Solve the equation:<br><img width='50%' src='./assests/images/question/1.png'>",
+          "options": [
+            {
+              "text": "6"
+
+            },
+            {
+              "text": "3"
+
+            },
+            {
+              "text": "9"
+
+            },
+            {
+              "text": "12"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 3,
+          "question": "If a = 3, b = 4, c = 5 and d = 6, then find<br> a<sup>2</sup> + b<sup>2</sup> - cd",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "5"
+            },
+            {
+              "text": "-5"
+            },
+            {
+              "text": "15"
+            },
+            {
+              "text": "-15"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 4,
+          "question": "Solve the equation:<br>4x = 40",
+          "options": [
+            {
+              "text": "12"
+
+            },
+            {
+              "text": "10"
+
+            },
+            {
+              "text": "8"
+
+            },
+            {
+              "text": "5"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 5,
+          "question": "If  z = 10.9, x = 2.5, y = 2.4, then find<br> (z - x) ÷ y ",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "20.16"
+            },
+            {
+              "text": "8.4"
+            },
+            {
+              "text": "3.5"
+            },
+            {
+              "text": "5.3"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 6,
+          "question": "Solve the equation:<br>-4(2 - x) = 12",
+          "options": [
+            {
+              "text": "3"
+
+            },
+            {
+              "text": "5"
+
+            },
+            {
+              "text": "7"
+
+            },
+            {
+              "text": "9"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "Solve the equation:<br>28 = 4 + 3(x + 5)",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "2"
+            },
+            {
+              "text": "4"
+            },
+            {
+              "text": "1"
+            },
+            {
+              "text": "3"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "Solve the equation:<br>0 = 16 + (m - 6) 4",
+          "options": [
+            {
+              "text": "12"
+
+            },
+            {
+              "text": "4"
+
+            },
+            {
+              "text": "2"
+
+            },
+            {
+              "text": "8"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Numerical coefficient",
+      "questions": [
+        {
+          "questionNo": 10,
+          "question": "Choose the numerical coefficient from the given term:<br>-7y",
+          "options": [
+            {
+              "text": "-7"
+            },
+            {
+              "text": "7"
+            },
+            {
+              "text": "0"
+            },
+            {
+              "text": "1"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the numerical coefficient from the given term:<br><img width='50%' src='./assests/images/question/4.png'>",
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/1.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/2.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/3.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/4.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the numerical coefficient from the given term:<br>-x<sup>2<sup>",
+          "options": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "0"
+            },
+            {
+              "text": "-x"
+            },
+            {
+              "text": "-1"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the numerical coefficient from the given term:<br><img width='50%' src='./assests/images/question/5.png'>",
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/5.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/6.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/7.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/8.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the numerical coefficient from the given term:<br>xyz",
+          "options": [
+            {
+              "text": "0"
+            },
+            {
+              "text": "xyz"
+            },
+            {
+              "text": "1"
+            },
+            {
+              "text": "-1"
+            }
+          ],
+          "answer":2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the numerical coefficient from the given term:<br>-3x<sup>2</sup>z<sup>2</sup>",
+          "options": [
+            {
+              "text": "-3"
+            },
+            {
+              "text": "-2"
+            },
+            {
+              "text": "1"
+            },
+            {
+              "text": "3"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Constant Terms",
+      "questions": [
+        {
+          "questionNo": 17,
+          "question": "What is the constant term in <br>6x + 2?",
+          "options": [
+            {
+              "text": "2"
+            },
+            {
+              "text": "6"
+            },
+            {
+              "text": "0"
+            },
+            {
+              "text": "-2"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "What is the constant term in <br>x<sup>2</sup> - 7?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "-7"
+            },
+            {
+              "text": "7"
+            },
+            {
+              "text": "0"
+            },
+            {
+              "text": "-1"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 19,
+          "question": "What is the constant term in <br>3x<sup>2</sup> - 4x + 5",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "3"
+            },
+            {
+              "text": "-4"
+            },
+            {
+              "text": "5"
+            },
+            {
+              "text": "1"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 20,
+          "question": "What is the constant term in <br>3x<sup>2</sup> + 6x - 9",
+          "options": [
+            {
+              "text": "3"
+
+            },
+            {
+              "text": "6"
+
+            },
+            {
+              "text": "-9"
+
+            },
+            {
+              "text": "0"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        },
+        {
+          "questionNo": 21,
+          "question": "What is the constant term in <br>a<sup>3</sup> - 3a<sup>2</sup> + 3a -1",
+          "options": [
+            {
+              "text": "1"
+
+            },
+            {
+              "text": "-1"
+
+            },
+            {
+              "text": "-3"
+
+            },
+            {
+              "text": "3"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        }
+      ]
+    },
+    {
+      "heading": "Like Terms",
+      "questions": [
+        {
+          "questionNo": 22,
+          "question": "Pick out the like terms from the  given group:<br>2x, 3y, 7x",
+          "options": [
+            {
+              "text": "2x, 7x"
+            },
+            {
+              "text": "3y, 7x"
+            },
+            {
+              "text": "2x, 3y"
+            },
+            {
+              "text": "All of the above"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 23,
+          "question": "Pick out the like terms from the  given group:<br>a, 7b, -6b",
+          "options": [
+            {
+              "text": "a, 7b"
+            },
+            {
+              "text": "7b, -6b"
+            },
+            {
+              "text": "-7b, 6b"
+            },
+            {
+              "text": "-a, -6b"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 24,
+          "question": "Pick out the like terms from the  given group:<br>ab, a<sup>2</sup>b, a<sup>2</sup>b<sup>2</sup>, 7a<sup>2</sup>b",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "ab, a<sup>2</sup>b"
+            },
+            {
+              "text": "a<sup>2</sup>b, 7a<sup>2</sup>b"
+            },
+            {
+              "text": "a<sup>2</sup>b<sup>2</sup>, 7a<sup>2</sup>b"
+            },
+            {
+              "text": "All of the above"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Degree of Algebraic Expressions",
+      "questions": [
+        {
+          "questionNo": 25,
+          "question": "Find the degree of the the given  algebraic expression:<br>12<sup>3</sup> + 3",
+          "options": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "2"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "0"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 26,
+          "question": "Find the degree of the the given  algebraic expression:<br>-6a<sup>4</sup> - 7a<sup>2</sup> + 8a",
+          "options": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "2"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "4"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "Find the degree of the the given  algebraic expression:<br>1 - 3t + 7t<sup>2</sup> - t<sup>3</sup>",
+          "options": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "2"
+            },
+            {
+              "text": "1"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "Find the degree of the the given  algebraic expression:<br>x<sup>2</sup> + yz",
+          "options": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "2"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "0"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "Find the degree of the the given  algebraic expression:<br>3x<sup>2</sup> + y<sup>3</sup> + z",
+          "options": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "2"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "0"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Solve Algebraic Expressions",
+      "questions": [
+        {
+          "questionNo": 29,
+          "question": "If x = 3 and y = 4, then solve the given expression:<br>2x + 5y",
+          "options": [
+            {
+              "text": "26"
+            },
+            {
+              "text": "16"
+            },
+            {
+              "text": "36"
+            },
+            {
+              "text": "46"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 30,
+          "question": "If x = 5 and y = 4, then solve the given expression:<br>5xy +2y",
+          "options": [
+            {
+              "text": "108"
+            },
+            {
+              "text": "98"
+            },
+            {
+              "text": "118"
+            },
+            {
+              "text": "128"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 9,
+          "question": "Solve the equation:<br>3x - 14 = x - 8",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "-4"
+            },
+            {
+              "text": "3"
+            },
+            {
+              "text": "0"
+            },
+            {
+              "text": "2"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Miscellaneous Exercise",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "The expression 4(x + 3) can be written as:",
+          "options": [
+            {
+              "text": "4x + 3"
+            },
+            {
+              "text": "4x + 12"
+            },
+            {
+              "text": "x + 12"
+            },
+            {
+              "text": "4 + x + 3"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 32,
+          "question": "Expand the expression 7(x + 2y)",
+          "options": [
+            {
+              "text": "7x + 2y"
+            },
+            {
+              "text": "7 + x + 2y"
+            },
+            {
+              "text": "7x + 14y"
+            },
+            {
+              "text": "x + 14y"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 33,
+          "question": "Choose equivalent expression for <br>2 + x + 10 + x",
+          "options": [
+            {
+              "text": "2 + 10x"
+            },
+            {
+              "text": "2x + 12"
+            },
+            {
+              "text": "x + 12"
+            },
+            {
+              "text": "x<sup>2</sup> + 12"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 34,
+          "question": "If x = 3, then solve the given expression:<br>4x + 5 + 2x",
+          "options": [
+            {
+              "text": "13"
+            },
+            {
+              "text": "17"
+            },
+            {
+              "text": "21"
+            },
+            {
+              "text": "23"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 35,
+          "question": "If x = 5, then solve the given expression:<br>(x + 1) × 2",
+          "options": [
+            {
+              "text": "10"
+            },
+            {
+              "text": "11"
+            },
+            {
+              "text": "12"
+            },
+            {
+              "text": "13"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
